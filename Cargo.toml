@@ -1,0 +1,10 @@
+[package]
+name = "print-rand"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "Print a random number"
+repository = ""
+
+[dependencies]
+rand = "0.7"
