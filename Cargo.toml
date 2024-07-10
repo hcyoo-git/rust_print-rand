@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "Print a random number"
-repository = ""
+repository = "https://github.com/hcyoo-git/rust_print-rand.git"
 
 [dependencies]
 rand = "0.7"
